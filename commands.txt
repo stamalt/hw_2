@@ -1,7 +1,15 @@
-mkdir dir_1
-cd dir_1
-mkdir inner_dir_1
-pwd
-cd ..
+1. mkdir dir_1
+2. cd dir_1
+3. mkdir inner_dir_1
+4. pwd
+5. cd dir_1
 mkdir tf_1.txt
-cd ..
+6. cat >>tf_2.txt
+- the first 1
+- the second 2
+- the third 3
+7. cd inner_dir_1
+8. cat >>tf_3.txt
+hello
+123
+9. 
